@@ -5,9 +5,7 @@ Scrip creato da Luca S. lucandroid70@gmail.com
 inserire questo codice nella pagina principale da monitorare quindi attributire nella directory i permessi di scrittura ed esecuzione con i comandi : sudo chown -R www-data:www-data /var/www/html/dir  | sudo chmod -R 750 /var/www/html/dir consultare il file log.txt nel vostro sito.
 
 PundiX: 0x5c0f728deeebcae23d58c024c23d99b5a1ca1752
-
 ETH: 0x5c0f728deeebcae23d58c024c23d99b5a1ca1752
-
 BTC: 1LrtHNBBiKux7LW6yyAo6MvL7b48jBbcpU
     
 
